@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alterando condificao no main
+=======
+alterando codificacao no outro branc
+>>>>>>> funcionalidade1
